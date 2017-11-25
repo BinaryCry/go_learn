@@ -23,6 +23,11 @@ func main() {
 	var res float64
 	res = (inp - 32) * 5 / 9
 	fmt.Println("Celsium:", math.Ceil(res))
+
+
+	fmt.Println(rand.Intn(10))
+	fmt.Println(rand.Intn(10))
+	fmt.Println(rand.Intn(50))
 	fmt.Println(rand.Int())
 }
 
