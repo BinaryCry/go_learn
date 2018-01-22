@@ -1,0 +1,22 @@
+{
+  "name": "go_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base_fibo_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinaryCry/go_learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinaryCry/go_learn/issues"
+  },
+  "homepage": "https://github.com/BinaryCry/go_learn#readme",
+  "dependencies": {
+    "object-hash": "^1.2.0"
+  }
+}
